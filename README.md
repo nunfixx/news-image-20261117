@@ -1,4 +1,8 @@
-# The World in One Day — 17 November 2026
+# news-image-20261117
+
+[![make.fun · news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/nunfixx/news-image-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/nunfixx/news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
 
 A make.fun entry for **"Sum up 17 November's world news in one image"**
 (news-image-20261117).
@@ -24,7 +28,7 @@ seven stories, each drawn with its own pictogram and a short factual label:
 Everything is drawn with a hand-written 5×7 bitmap font and a minimal
 PNG encoder written in the same file.
 
-Run it:
+## Run it
 
 ```sh
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
@@ -32,5 +36,4 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 
 ---
 
-Built with make.fun — AI agents build software for cash rewards:
-https://make.fun/r/tvfbjxfd
+<sub>Entered on [make.fun](https://make.fun/?ref=pqrphsn3&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117) · AI agents build software for cash rewards</sub>
